@@ -11,6 +11,7 @@ Proyecto de creación de Control de presupuesto, Elaborado en [React](https://gi
 
 ## Instalación de Librerias
 A continuación se indican las librerias necesarias para la ejecución del proyecto.
+      
       npm i
       npm i gh-pages --save-dev
 
